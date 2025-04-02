@@ -6,3 +6,4 @@ LocalAI Agent with Python
 # pip install langchain-ollama langchain-chroma
 Run the main.py
 # python .\main.py
+![image](https://github.com/user-attachments/assets/f4e63548-9cdc-4ebc-9fb2-3eb458ac735d)
